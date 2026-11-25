@@ -20,6 +20,7 @@
 
 - [Beni SDK](https://github.com/Mondo-Robotics/Beni-SDK) - 局域网 SDK，含使用指南、78 个协议参考与 HMS 故障码。
 - [Open Beni](https://github.com/Mondo-Robotics/Open-Beni) - 浏览器赛车游戏，以及它背后的 MuJoCo 训练源码、Web 客户端与机器人资产。
+- [Beni 3D](https://github.com/vinaybothra/beni-3d-web) - 社区用 Three.js 纯代码搭出的 Beni 模型，同一页面还带一个跑酷小游戏。
 
 ## 贡献
 

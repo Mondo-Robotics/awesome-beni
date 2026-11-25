@@ -20,6 +20,7 @@
 
 - [Beni SDK](https://github.com/Mondo-Robotics/Beni-SDK) - Local-network SDK with a user guide, the 78-protocol reference and HMS fault codes.
 - [Open Beni](https://github.com/Mondo-Robotics/Open-Beni) - Browser racing game with the MuJoCo training source, web client and robot assets behind it.
+- [Beni 3D](https://github.com/vinaybothra/beni-3d-web) - Community-built Three.js model of Beni, with an endless-runner game on the same page.
 
 ## Contributing
 
